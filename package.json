@@ -1,0 +1,18 @@
+{
+  "name": "blygo-button-vue",
+  "version": "1.0.0",
+  "description": "Unlock the Power of Data with Blygo! Elevate your customer relationships and satisfaction, all in one place.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blygoio/vue-blygo-profile.git"
+  },
+  "author": "Blygo",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.14"
+  },
+  "peerDependencies": {
+    "vue": "^2.6.14"
+  }
+}
